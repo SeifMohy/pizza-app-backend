@@ -1,5 +1,3 @@
-# pizza-app-backend
-
 # Pizza APP
 
 This project is a pizza delivery website with the aim of collecting the visitor’s order and required information for delivery. Moreover, a dashboard is provided for the kitchen to keep track of orders and time passed since order placement.
